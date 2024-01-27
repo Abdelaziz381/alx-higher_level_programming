@@ -20,4 +20,4 @@ class Square():
         Returns:
             Squared size
         """
-        return self.__size ** 2    
+        return self.__size ** 2
